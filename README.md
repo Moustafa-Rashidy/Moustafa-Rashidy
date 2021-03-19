@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Scientist 
 - 🌱 I’m currently learning Machine Learnind & Deep Learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...(moustafarashidy@icloud.com)
 
 <!---
 Moustafa-Rashidy/Moustafa-Rashidy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

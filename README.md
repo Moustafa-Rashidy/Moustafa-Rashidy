@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis & Machine Learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Pjone: +971547483145
+- 📫 How to reach me Phone: +971547483145
 - LinkedIn: https://www.linkedin.com/in/moustafa-rashidy-4838a819b/ 
 
 <!---
